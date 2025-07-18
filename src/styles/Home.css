@@ -1,0 +1,25 @@
+.home-container {
+  padding: 20px;
+  max-width: 1200px;
+  margin: auto;
+}
+
+.filters {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+  margin-bottom: 20px;
+}
+
+.filters input,
+.filters select,
+.filters button {
+  padding: 8px 12px;
+  font-size: 14px;
+}
+
+.property-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 20px;
+}

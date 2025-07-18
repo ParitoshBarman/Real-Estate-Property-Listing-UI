@@ -1,0 +1,218 @@
+[
+  {
+    "id": 1,
+    "title": "Modern 2BHK Apartment",
+    "location": "Delhi",
+    "price": "₹45,00,000",
+    "images": [
+      "https://images.unsplash.com/photo-1628592102751-ba83b0314276?fm=jpg&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fG1vZGVybiUyMGFwYXJ0bWVudHxlbnwwfHwwfHx8MA%3D%3D&ixlib=rb-4.1.0&q=60&w=3000",
+      "https://images.unsplash.com/photo-1616046229478-9901c5536a45?fm=jpg&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aG91c2UlMjBpbnRlcmlvcnxlbnwwfHwwfHx8MA%3D%3D&ixlib=rb-4.1.0&q=60&w=3000",
+      "https://images.unsplash.com/photo-1554995207-c18c203602cb?fm=jpg&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aW50ZXJpb3IlMjBob3VzZXxlbnwwfHwwfHx8MA%3D%3D&ixlib=rb-4.1.0&q=60&w=3000"
+    ],
+    "type": "Apartment",
+    "bhk": "2BHK",
+    "area": "1100 sqft",
+    "description": "Luxurious 2BHK apartment with city views and modern interiors.",
+    "amenities": ["Gym", "Parking", "Swimming Pool"],
+    "lat": 28.6139,
+    "lng": 77.209
+  },
+  {
+    "id": 2,
+    "title": "Spacious 3BHK Villa",
+    "location": "Gurgaon",
+    "price": "₹95,00,000",
+    "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=800&q=80",
+      "https://plus.unsplash.com/premium_photo-1676823553207-758c7a66e9bb?fm=jpg&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8YXBhcnRtZW50JTIwaW50ZXJpb3J8ZW58MHx8MHx8fDA%3D&ixlib=rb-4.1.0&q=60&w=3000",
+      "https://images.unsplash.com/photo-1580587771525-78b9dba3b914"
+    ],
+    "type": "Villa",
+    "bhk": "3BHK",
+    "area": "2500 sqft",
+    "description": "Premium villa with a garden, private parking and stylish rooms.",
+    "amenities": ["Garden", "Security", "Modular Kitchen"],
+    "lat": 28.4595,
+    "lng": 77.0266
+  },
+  {
+    "id": 3,
+    "title": "Affordable 1BHK Apartment",
+    "location": "Noida",
+    "price": "₹25,00,000",
+    "images": [
+      "https://i.pinimg.com/736x/f0/cf/97/f0cf9770ac2771172a2905aa320e3b4b.jpg",
+      "https://images.unsplash.com/photo-1613545325278-f24b0cae1224?fm=jpg&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aG9tZSUyMGludGVyaW9yfGVufDB8fDB8fHww&ixlib=rb-4.1.0&q=60&w=3000",
+      "https://images.unsplash.com/photo-1639663742190-1b3dba2eebcf?fm=jpg&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDM0fHx8ZW58MHx8fHx8&ixlib=rb-4.0.3&q=60&w=3000"
+    ],
+    "type": "Apartment",
+    "bhk": "1BHK",
+    "area": "650 sqft",
+    "description": "Budget 1BHK apartment suitable for singles or small families.",
+    "amenities": ["Lift", "CCTV", "Gated Community"],
+    "lat": 28.5355,
+    "lng": 77.391
+  },
+  {
+    "id": 4,
+    "title": "Luxury 4BHK Villa",
+    "location": "South Delhi",
+    "price": "₹2,50,00,000",
+    "images": [
+      "https://assets.architecturaldigest.in/photos/60084cfbeebcfd50ede87d0f/16%3A9/w_2560%2Cc_limit/Mumbai-2-BHK-flat-Japandi-design-ZERO9-1366x768.jpg",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1554995207-c18c203602cb?fm=jpg&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aW50ZXJpb3IlMjBob3VzZXxlbnwwfHwwfHx8MA%3D%3D&ixlib=rb-4.1.0&q=60&w=3000"
+    ],
+    "type": "Villa",
+    "bhk": "4BHK",
+    "area": "3200 sqft",
+    "description": "Elegant villa in posh area with premium interiors and driveway.",
+    "amenities": ["Private Garden", "Security", "Servant Quarters"],
+    "lat": 28.5245,
+    "lng": 77.1855
+  },
+  {
+    "id": 5,
+    "title": "Investment Plot",
+    "location": "Greater Noida",
+    "price": "₹30,00,000",
+    "images": [
+      "https://thearchitectsdiary.com/wp-content/uploads/2024/04/2bhk-house-design-5-jpg.webp",
+      "https://images.unsplash.com/photo-1613545325278-f24b0cae1224?fm=jpg&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aG9tZSUyMGludGVyaW9yfGVufDB8fDB8fHww&ixlib=rb-4.1.0&q=60&w=3000",
+      "https://images.unsplash.com/photo-1639663742190-1b3dba2eebcf?fm=jpg&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDM0fHx8ZW58MHx8fHx8&ixlib=rb-4.0.3&q=60&w=3000"
+    ],
+    "type": "Plot",
+    "bhk": "NA",
+    "area": "1500 sqft",
+    "description": "Prime location plot for future construction or investment.",
+    "amenities": ["Boundary Wall", "Gated Colony", "Water Supply"],
+    "lat": 28.4744,
+    "lng": 77.503
+  },
+  {
+    "id": 6,
+    "title": "Compact Studio Apartment",
+    "location": "Dwarka",
+    "price": "₹18,00,000",
+    "images": [
+      "https://images.unsplash.com/photo-1613545325278-f24b0cae1224?fm=jpg&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aG9tZSUyMGludGVyaW9yfGVufDB8fDB8fHww&ixlib=rb-4.1.0&q=60&w=3000",
+      "https://images.unsplash.com/photo-1580587771525-78b9dba3b914",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=800&q=80"
+    ],
+    "type": "Apartment",
+    "bhk": "Studio",
+    "area": "400 sqft",
+    "description": "Furnished studio apartment with modern kitchen and balcony.",
+    "amenities": ["Furniture", "Wi-Fi", "AC"],
+    "lat": 28.5865,
+    "lng": 77.0435
+  },
+  {
+    "id": 7,
+    "title": "Cozy 2BHK Flat",
+    "location": "Rohini",
+    "price": "₹40,00,000",
+    "images": [
+      "https://images.unsplash.com/photo-1554995207-c18c203602cb?fm=jpg&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aW50ZXJpb3IlMjBob3VzZXxlbnwwfHwwfHx8MA%3D%3D&ixlib=rb-4.1.0&q=60&w=3000",
+      "https://plus.unsplash.com/premium_photo-1676823553207-758c7a66e9bb?fm=jpg&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8YXBhcnRtZW50JTIwaW50ZXJpb3J8ZW58MHx8MHx8fDA%3D&ixlib=rb-4.1.0&q=60&w=3000",
+      "https://images.unsplash.com/photo-1616046229478-9901c5536a45?fm=jpg&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aG91c2UlMjBpbnRlcmlvcnxlbnwwfHwwfHx8MA%3D%3D&ixlib=rb-4.1.0&q=60&w=3000"
+    ],
+    "type": "Apartment",
+    "bhk": "2BHK",
+    "area": "1000 sqft",
+    "description": "Quiet neighborhood with metro access and local shops.",
+    "amenities": ["Lift", "Power Backup", "Balcony"],
+    "lat": 28.75,
+    "lng": 77.044
+  },
+  {
+    "id": 8,
+    "title": "Luxury Penthouse",
+    "location": "Connaught Place",
+    "price": "₹3,75,00,000",
+    "images": [
+      "https://images.unsplash.com/photo-1616046229478-9901c5536a45?fm=jpg&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aG91c2UlMjBpbnRlcmlvcnxlbnwwfHwwfHx8MA%3D%3D&ixlib=rb-4.1.0&q=60&w=3000",
+      "https://images.unsplash.com/photo-1613545325278-f24b0cae1224?fm=jpg&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aG9tZSUyMGludGVyaW9yfGVufDB8fDB8fHww&ixlib=rb-4.1.0&q=60&w=3000",
+      "https://images.unsplash.com/photo-1580587771525-78b9dba3b914"
+    ],
+    "type": "Apartment",
+    "bhk": "4BHK",
+    "area": "3500 sqft",
+    "description": "Sky terrace, private lift and home theater included.",
+    "amenities": ["Terrace", "Private Lift", "Home Theater"],
+    "lat": 28.6315,
+    "lng": 77.2167
+  },
+  {
+    "id": 9,
+    "title": "Modern 3BHK Builder Floor",
+    "location": "Lajpat Nagar",
+    "price": "₹85,00,000",
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1676823553207-758c7a66e9bb?fm=jpg&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8YXBhcnRtZW50JTIwaW50ZXJpb3J8ZW58MHx8MHx8fDA%3D&ixlib=rb-4.1.0&q=60&w=3000",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=800&q=80",
+      "https://thearchitectsdiary.com/wp-content/uploads/2024/04/2bhk-house-design-5-jpg.webp"
+    ],
+    "type": "Apartment",
+    "bhk": "3BHK",
+    "area": "1500 sqft",
+    "description": "Stylish builder floor with modular kitchen and lift.",
+    "amenities": ["Covered Parking", "Lift", "Modular Kitchen"],
+    "lat": 28.5687,
+    "lng": 77.2433
+  },
+  {
+    "id": 10,
+    "title": "Corner Residential Plot",
+    "location": "Faridabad",
+    "price": "₹28,00,000",
+    "images": [
+      "https://images.unsplash.com/photo-1580587771525-78b9dba3b914",
+      "https://images.unsplash.com/photo-1639663742190-1b3dba2eebcf?fm=jpg&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDM0fHx8ZW58MHx8fHx8&ixlib=rb-4.0.3&q=60&w=3000",
+      "https://i.pinimg.com/736x/f0/cf/97/f0cf9770ac2771172a2905aa320e3b4b.jpg"
+    ],
+    "type": "Plot",
+    "bhk": "NA",
+    "area": "1800 sqft",
+    "description": "Corner plot with road access and ready for building.",
+    "amenities": ["Drainage", "Road Access", "Electricity"],
+    "lat": 28.4089,
+    "lng": 77.3178
+  },
+  {
+    "id": 11,
+    "title": "Furnished 1BHK Flat",
+    "location": "Karol Bagh",
+    "price": "₹35,00,000",
+    "images": [
+      "https://images.unsplash.com/photo-1639663742190-1b3dba2eebcf?fm=jpg&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDM0fHx8ZW58MHx8fHx8&ixlib=rb-4.0.3&q=60&w=3000",
+      "https://images.unsplash.com/photo-1616046229478-9901c5536a45?fm=jpg&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aG91c2UlMjBpbnRlcmlvcnxlbnwwfHwwfHx8MA%3D%3D&ixlib=rb-4.1.0&q=60&w=3000",
+      "https://images.unsplash.com/photo-1554995207-c18c203602cb?fm=jpg&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aW50ZXJpb3IlMjBob3VzZXxlbnwwfHwwfHx8MA%3D%3D&ixlib=rb-4.1.0&q=60&w=3000"
+    ],
+    "type": "Apartment",
+    "bhk": "1BHK",
+    "area": "700 sqft",
+    "description": "Fully furnished with appliances, wardrobe and balcony.",
+    "amenities": ["Fridge", "Washing Machine", "Wardrobe"],
+    "lat": 28.6519,
+    "lng": 77.1905
+  },
+  {
+    "id": 12,
+    "title": "Eco-Friendly 2BHK Apartment",
+    "location": "South Extension",
+    "price": "₹58,00,000",
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1674676471417-07f613528a94?fm=jpg&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8bW9kZXJuJTIwYXBhcnRtZW50fGVufDB8fDB8fHww&ixlib=rb-4.1.0&q=60&w=3000",
+      "https://images.unsplash.com/photo-1580587771525-78b9dba3b914",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=800&q=80"
+    ],
+    "type": "Apartment",
+    "bhk": "2BHK",
+    "area": "1050 sqft",
+    "description": "Rainwater harvesting, solar power, and smart lighting.",
+    "amenities": ["Solar Panels", "Eco Park", "LED Lighting"],
+    "lat": 28.5744,
+    "lng": 77.2194
+  }
+]
