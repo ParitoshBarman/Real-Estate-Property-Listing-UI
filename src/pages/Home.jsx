@@ -14,7 +14,7 @@ const Home = () => {
   });
 
   useEffect(() => {
-    axios.get("http://localhost:5173/properties.json")
+    axios.get("/properties.json")
       .then(response => {
         setProperties(response.data);
         setAllProperties(response.data);
