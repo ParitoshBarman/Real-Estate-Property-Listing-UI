@@ -13,6 +13,8 @@ const Home = () => {
     bhk: ""
   });
 
+  const [loading, setLoading] = useState(true);
+
   useEffect(() => {
     axios.get("/properties.json")
       .then(response => {
@@ -21,12 +23,15 @@ const Home = () => {
       })
       .catch(error => {
         console.error("Error fetching property data:", error);
+      })
+      .finally(() => {
+        setLoading(false);
       });
-  }, []);
+  });
 
   const handleFilter = () => {
     let filtered = allProperties;
-    
+
     if (filters.min || filters.max) {
       filtered = filtered.filter(p => {
         const price = parseInt(p.price);
@@ -93,10 +98,15 @@ const Home = () => {
       </div>
 
       <div className="property-grid">
-        {properties.map((property) => (
-          <PropertyCard key={property.id} property={property} />
-        ))}
+        {loading
+          ? Array.from({ length: 6 }).map((_, i) => (
+            <PropertyCard key={i} loading={true} />
+          ))
+          : properties.map((property) => (
+            <PropertyCard key={property.id} property={property} />
+          ))}
       </div>
+
     </div>
   );
 };
